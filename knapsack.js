@@ -1,5 +1,18 @@
 'use strict';
 
+/**
+*   This cool Algorithms problem is call the Knapsack problem.
+*   It goes as follows:
+*   Imagine that there is a Zombie apocalypse and you had to take everything of utmost value.
+*   BUT, you can only fit it in one backpack. Which items will give you the most value?
+*   
+*   So yeah, here's a nifty algorithm to use during a zombie uprising!
+*
+*   Running time: O(N*S) where N is number of items and S is backpack weight capacity
+*
+*   Happy zombie slaying!
+*/
+
 (function() {
 
     var items = [{
