@@ -6,6 +6,6 @@ If you're like me, you probably love JS.  Whether you want to explore new algori
 If you have Node installed then it gets even better!
 
 Just type the command in your shell:
-node <filename>
+> node filename.js
 
 This will output the results!
